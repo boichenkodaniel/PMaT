@@ -1,1 +1,1 @@
-print("Main branch conflict line")
+print("Resolve conflict")
