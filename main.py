@@ -1,1 +1,1 @@
-print("Change file for second commit")
+print("Test git hook")
